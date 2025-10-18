@@ -10,7 +10,7 @@ import { eventsRoutes } from "../../modules/events/routes/events.routes";
 import { gradesRoutes } from "../../modules/grades/routes/grades.routes";
 import { attendanceRoutes } from "../../modules/attendance/routes/attendance.routes";
 import { behaviorRoutes } from "../../modules/behavior/routes/behavior.routes";
-import { teacherRoutes } from "../../modules/teacher/routes/teacher.routes";
+import { teacherRoutes } from "../../modules/teacher-management/routes/teacher.routes";
 import { psychologyRoutes } from "../../modules/psychology/routes/psychology.routes";
 import { usersRoutes } from "../../modules/users/routes/users.routes";
 import { enrollmentsRoutes } from "../../modules/enrollments/routes/enrollments.routes";
